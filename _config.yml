@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Stream Tangerine"
 email: "tom.arris@gmail.com"
 description: "Stream Tangerine is a live video streaming specialist"
-baseurl: "/ohmshari.github.io"
+baseurl: "/"
 url: "https://ohmshari.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
